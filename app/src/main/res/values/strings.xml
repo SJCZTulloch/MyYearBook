@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Yearbook</string>
+    <string name="original">Zachary Tulloch I like to code</string>
+    <string name="changed">This text has changed</string>
+</resources>
